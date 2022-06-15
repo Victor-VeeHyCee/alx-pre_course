@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I used the touch command
+=======
+git pull origin
+>>>>>>> master
