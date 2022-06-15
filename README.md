@@ -1,2 +1,2 @@
 My first readme
-Done some stuffs
+It has been an interesting exposure. More to come!!!
